@@ -290,7 +290,9 @@ end
 function Rutba(user_id,chat_id)
 if tonumber(user_id) == tonumber(1798018357) then
 var = 'مبرمج السورس'
-if tonumber(user_id) == tonumber(1798018357) then
+if tonumber(user_id) == tonumber(1669332184) then
+var = 'ملك السورس'
+if tonumber(user_id) == tonumber(1393105363) then
 var = 'ملك السورس'
 elseif tonumber(user_id) == tonumber(SUDO) then
 var = 'المطور الاساسي'  
